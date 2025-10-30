@@ -1,0 +1,9 @@
+{
+  "name": "ctph-ai-router",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.56.0"
+  }
+}
